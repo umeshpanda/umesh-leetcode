@@ -12,6 +12,7 @@
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/umeshpanda/umesh/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/umeshpanda/umesh/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/umeshpanda/umesh/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+| [0228-summary-ranges](https://github.com/umeshpanda/umesh/tree/main/0228-summary-ranges/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
