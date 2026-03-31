@@ -13,6 +13,7 @@
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/umeshpanda/umesh/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/umeshpanda/umesh/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0228-summary-ranges](https://github.com/umeshpanda/umesh/tree/main/0228-summary-ranges/) | Easy |
+| [0238-product-of-array-except-self](https://github.com/umeshpanda/umesh/tree/main/0238-product-of-array-except-self/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -37,4 +38,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/umeshpanda/umesh/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0238-product-of-array-except-self](https://github.com/umeshpanda/umesh/tree/main/0238-product-of-array-except-self/) | Medium |
 <!---LeetCode Topics End-->
