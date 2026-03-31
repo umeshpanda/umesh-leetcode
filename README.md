@@ -5,6 +5,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0008-string-to-integer-atoi](https://github.com/umeshpanda/umesh/tree/main/0008-string-to-integer-atoi/) | Medium |
+| [0168-excel-sheet-column-title](https://github.com/umeshpanda/umesh/tree/main/0168-excel-sheet-column-title/) | Easy |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/umeshpanda/umesh/tree/main/1784-check-if-binary-string-has-at-most-one-segment-of-ones/) | Easy |
 ## Array
 | Problem Name | Difficulty |
@@ -42,4 +43,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0238-product-of-array-except-self](https://github.com/umeshpanda/umesh/tree/main/0238-product-of-array-except-self/) | Medium |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0168-excel-sheet-column-title](https://github.com/umeshpanda/umesh/tree/main/0168-excel-sheet-column-title/) | Easy |
 <!---LeetCode Topics End-->
